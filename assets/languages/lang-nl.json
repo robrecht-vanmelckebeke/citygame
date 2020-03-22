@@ -1,0 +1,170 @@
+{
+    "GENERAL": {
+        "AGREE_COMMERCIAL_EMAIL": "Go Go City Games zal mijn profielinfo niet delen met een derde partij.<br>Ik ontvang graag info van Go Go City Games via email (niet meer dan 1 mail per maand).",
+        "AGREE_RECEIVE_RESULTS_BY_EMAIL": "Ik ontvang graag de resultaten via email.",
+        "AGREE_RECEIVE_RESULTS_AND_COMMERCIAL_EMAILS": "Ik ontvang graag emails met informatie en resultaten (maximaal 1 email per maand).",
+        "AGREE_TERMS_AND_CONDITIONS": "Ik ga akkoord met de algemene voorwaarden en condities.",
+        "BIRTH_YEAR_C": "Geboortejaar",
+        "CONTINUE_C": "Doorgaan",
+        "CONFIRM_PASSWORD_C": "Bevestig Wachtwoord",
+        "COUNTRY_C": "Land",
+        "DONE_C": "Klaar",
+        "EMAIL_C": "Email",
+        "FACEBOOK_C": "Facebook",
+        "FIRST_NAME_C": "Voornaam",
+        "GO_GO_TITLE_FOR_SCREENS": "Go Go City Games",
+        "GOOGLE_C": "Google",
+        "HINT_C": "Hint",
+        "LANGUAGE_C": "Taal",
+        "LAST_NAME_C": "Achternaam",
+        "LOG_IN_C": "Inloggen",
+        "NAME_C": "Naam",
+        "NO_C": "Neen",
+        "OK_C": "Ok",
+        "OR_C": "Of",
+        "PASSWORD_C": "Wachtwoord",
+        "POINTS": "punten",
+        "REGISTER_C": "Registreer",
+        "SIGN_OUT_C": "Uitloggen",
+        "TECHNICAL_MANUAL_C": "Technische Handleiding"
+    },
+    "CONGRATULATIONS_SCREEN": {
+        "QUESTIONS_SOLVED": "Raadsels Opgelost",
+        "DISTANCE_C": "Afstand",
+        "TOTAL_TIME": "Totale Tijd"
+    },
+    "CREATE_TEAM_SCREEN": {
+        "TITLE": "Maak team aan",
+        "CREATE_TEAM": "Maak team aan",
+        "ENTER_TEAM_NAME": "Geef team naam in",
+        "ENTER_PLAYER_NAME": "Geef speler naam in",
+        "UPLOAD_TEAM_PHOTO": "Upload team foto"
+    },
+    "ENTER_BOOKING_CODE_SCREEN": {
+        "TITLE": "Geef de ontvangen code in of gebruik de QR code.",
+        "ENTER_BOOKING_CODE": "Geef de code",
+        "BOOKING_NOT_FOUND": "Boeking niet gevonden!"
+    },
+    "FORGOT_PASSWORD_SCREEN": {
+        "TITLE": "Wachtwoord vergeten?",
+        "ENTER_EMAIL": "Geef jouw email...",
+        "INFO_ABOUT_EMAIL": "Er wordt een email verstuurd indien het emailadres gekend is in de databank.",
+        "RECEIVE_PASSWORD": "Ontvang Wachtwoord"
+    },
+    "GAME_INTRO_SCREEN": {
+        "TITLE": "Game Video"
+    },
+    "GENERAL_INTRO_SCREEN": {
+        "TEST_SYSTEM_REQUIREMENTS": "Test Systeemvereisten"
+    },
+    "GOOD_ANSWER_SCREEN": {
+        "YOUR_NEW_SCORE": "Uw nieuwe score!"
+    },
+    "GPS_RIDLLE_SCREEN": {
+        "TITLE": "GPSRiddle - Riddle Title",
+        "SUBMIT_LOCATION": "Submit Location"
+    },
+    "HINT_COST_SCREEN": {
+        "THIS_HINT_WILL_COST_YOU": "Deze hint kost je"
+    },
+    "JOIN_CREATE_TEAM_SCREEN": {
+        "TITLE": "Sluit je aan bij of creëer een team",
+        "CREATE_YOUR_TEAM": "Creëer jouw team",
+        "TEAMS_AVAILABLE": "Teams beschikbaar",
+        "TEAMS_PURCHASED": "Teams aangekocht"
+    },
+    "LOGIN_FACEBOOK_SCREEN": {
+        "LOGIN_WITH_FACEBOOK": "Meld je aan met Facebook",
+        "CONTINUE_WITH_FACEBOOK": "Doorgaan met Facebook",
+        "FACEBOOK_INFO_NO_RIGHTS_FOR_POSTS": "Dit geeft de app geen rechten om te posten op mijn Facebook account."
+    },
+    "LOGIN_GOOGLE_SCREEN": {
+        "LOGIN_WITH_GOOGLE": "Meld je aan met Google",
+        "CONTINUE_WITH_GOOGLE": "Doorgaan met Google"
+    },
+    "LOGIN_MAIL_SCREEN": {
+        "FORGOT_PASSWORD": "Wachtwoord Vergeten" 
+    },
+    "REGISTRATION_SCREEN": {
+        "REGISTER_WITH_EMAIL": "Registreer je met email"
+    },
+    "REPORT_PROBLEM_SCREEN": {
+        "DESCRIPTION": "Het probleem beschrijven.",
+        "ERROR_CRITICAL": "Kritieke fout: we kunnen niet verder en vragen onmiddellijk hulp.",
+        "ERROR_CONTINUE_POSSIBLE": "We kunnen nog verder en wensen een probleem te rapporteren.",
+        "RELATED_TO_RIDDLE": "Het probleem is gerelateerd aan een specifiek raadsel.",
+        "RIDDLE_C": "Raadsel",
+        "TITLE": "Probleem Rapporteren",
+        "UPLOAD_PICTURE": "Foto Toevoegen"
+    },
+    "RIDDLE_SUBMIT_ANSWER_SCREEN": {       
+        "ANSWER_IS_LOCATION": "Het antwoord is jouw locatie.",
+        "ANSWER_IS_NUMBER": "Het antwoord is een getal.",
+        "ANSWER_IS_PHOTO": "Het antwoord is een genomen foto.",
+        "ANSWER_IS_TEXT_AND_PHOTO": "Het antwoord is text én foto.",
+        "ENTER_ANSWER": "Geef jouw antwoord...",
+        "SUBMIT_ANSWER": "Antwoord Doorgeven",
+        "SUBMIT_LOCATION": "Locatie Doorgeven",
+        "UPLOAD_PHOTO": "Foto Toevoegen"
+    },
+    "SETTINGS_SCREEN": {
+        "ACCOUNT_SETTINGS": "Account Instellingen",
+        "CHANGE_TEAM_INFO": "Wijzig jouw (team) informatie",
+        "DELETE_ACCOUNT": "Account Verwijderen",
+        "REPORT_PROBLEM": "Een probleem rapporteren",
+        "SCORE_DETAILS": "Score Details",
+        "TEST_SYSTEM_REQUIREMENTS": "Test Systeemvereisten",
+        "TITLE": "Configuratie"
+    },
+    "SETTINGS_TEAM_INFO_SCREEN": {
+        "TITLE": "Team Informatie",
+        "UPLOAD_TEAM_PHOTO": "Upload team foto"
+    },
+    "START_SCREEN": {
+        "SIGN_IN_WITH": "Meld je aan met",
+        "REGISTER_ACCOUNT": "Registreer Account"
+    },
+    "SYSTEM_REQUIREMENTS_CHECK_SCREEN": {
+        "TITLE": "Controleer Systeemvereisten",
+        "CONNECTION_TO_THE_GAME": "Verbinding met het Go Go City Games spel",
+        "FULLY_CHARGE_YOUR_BATTERY": "Laad je batterij volledig op.",
+        "SYSTEM_REQUIREMENTS_INFO": "Systeemvereisten info",
+        "TURN_ON_THE_MOBILE_DATA": "Activeer mobiele data.",
+        "TURN_ON_THE_GPS": "Activeer GPS.",
+        "TURN_ON_THE_WIFI": "Activeer Wifi.",
+        "TURN_UP_THE_VOLUME": "Zet het volume hoger."
+    },
+    "SYSTEM_REQUIREMENTS_CHECK_MODAL": {
+        "TITLE": "Systeemvereisten informatie",
+        "BATTERY": "BATTERIJ",
+        "BATTERY_INFO": "Het gebruik van mobiele data en GPS verbruikt veel energie. Om te verhinderen dat de batterij leeg loopt, raden we aan dat je start met een volledig opgeladen batterij.",
+        "MOBILE_DATA": "MOBIELE DATA",
+        "MOBILE_DATA_INFO": "Het is vereist om mobiele data te activeren. Een dataverbinding is nodig gedurende het spel.",
+        "WIFI": "WIFI",
+        "WIFI_INFO": "Jouw telefoon gebruikt minder batterij zonder wifi. Als de telefoon probeert te verbinden met wifi netwerken, kan dit performantie problemen veroorzaken.",
+        "VOLUME": "VOLUME",
+        "VOLUME_INFO": "We raden een hoog volume aan. Dit is nodig om verwittigd te worden van belangrijke gebeurtenissen gedurende het spel."
+    },
+    "SYSTEM_REQUIREMENTS_NOK_SCREEN": {
+        "TITLE": "Instellingen zijn niet ok",
+        "NOT_MEETING_ALL_REQUIREMENTS": "Jouw telefoon voldoet niet aan <br>alle systeemvereisten.<br><br>Het kan zijn dat er serieuze problemen<br>optreden.",
+        "SURE_TO_CONTINUE": "Ben je zeker dat je wil verdergaan?"
+    },
+    "TEAM_LEADER_OVERVIEW_SCREEN": {
+        "INFO_ABOUT_START_GAME": "Alle team leden verschijnen en jouw team is klaar?<br>Dan is het moment aangebroken om het spel te starten.",
+        "LEAVE_AND_REMOVE_TEAM": "Verlaat en verwijder het team",
+        "START_GAME": "Start het spel"
+    },
+    "TEAM_MEMBER_OVERVIEW_SCREEN": {
+        "TITLE": "Kies een naam en sluit aan bij het team",
+        "INFO_ABOUT_WHEN_GAME_STARTS": "Wanneer je aangesloten bent bij een team, wacht even tot de<br> team verantwoordelijke het spel start.",
+        "JOIN_THIS_TEAM": "Sluit je aan bij dit team",
+        "LEAVE_TEAM": "Verlaat Team"
+    },
+    "TECHNICAL_MANUAL_SCREEN": {
+        "TITLE": "Technische Handleiding"
+    },
+    "WRONG_ANSWER_SCREEN": {
+        "WRONG_ANSWER": "Fout Antwoord"
+    }
+}

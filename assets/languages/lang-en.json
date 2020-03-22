@@ -1,0 +1,170 @@
+{
+    "GENERAL": {
+        "AGREE_COMMERCIAL_EMAIL": "Go Go City Games will not communicate my profile information to any third party.<br>I would like to receive more information from Go Go City Games via email (not more than 1 email per month).",
+        "AGREE_RECEIVE_RESULTS_BY_EMAIL": "I would like to receive the results by email.",
+        "AGREE_RECEIVE_RESULTS_AND_COMMERCIAL_EMAILS": "I would like to receive emails with information and results (not more than 1 email per month).",
+        "AGREE_TERMS_AND_CONDITIONS": "I agree to the Terms and Conditions.",
+        "BIRTH_YEAR_C": "Birth Year",
+        "CONTINUE_C": "Continue",
+        "CONFIRM_PASSWORD_C": "Confirm Password",
+        "COUNTRY_C": "Country",
+        "DONE_C": "Done",
+        "EMAIL_C": "Email",
+        "FACEBOOK_C": "Facebook",
+        "FIRST_NAME_C": "First Name",
+        "GO_GO_TITLE_FOR_SCREENS": "Go Go City Games",
+        "GOOGLE_C": "Google",
+        "HINT_C": "Hint",
+        "LANGUAGE_C": "Language",
+        "LAST_NAME_C": "Last Name",
+        "LOG_IN_C": "Sign In",
+        "NAME_C": "Name",
+        "NO_C": "No",
+        "OK_C": "Ok",
+        "OR_C": "Or",
+        "PASSWORD_C": "Password",
+        "POINTS": "points",
+        "REGISTER_C": "Register",
+        "SIGN_OUT_C": "Sign Out",
+        "TECHNICAL_MANUAL_C": "Technical Manual"
+    },
+    "CONGRATULATIONS_SCREEN": {
+        "QUESTIONS_SOLVED": "Questions Solved",
+        "DISTANCE_C": "Distance",
+        "TOTAL_TIME": "Total Time"
+    },
+    "CREATE_TEAM_SCREEN": {
+        "TITLE": "Create Team",
+        "CREATE_TEAM": "Create Team",
+        "ENTER_TEAM_NAME": "Enter team name",
+        "ENTER_PLAYER_NAME": "Enter player name",
+        "UPLOAD_TEAM_PHOTO": "Upload team photo"
+    },
+    "ENTER_BOOKING_CODE_SCREEN": {
+        "TITLE": "Enter received code or use QR code",
+        "ENTER_BOOKING_CODE": "Enter Code",
+        "BOOKING_NOT_FOUND": "Booking not found!"
+    },
+    "FORGOT_PASSWORD_SCREEN": {
+        "TITLE": "Forgot password?",
+        "ENTER_EMAIL": "Enter your email...",
+        "INFO_ABOUT_EMAIL": "If the email address is active<br>in our database, an e-mail will be<br>sent to it.",
+        "RECEIVE_PASSWORD": "Receive Password"
+    },
+    "GAME_INTRO_SCREEN": {
+        "TITLE": "Game Video"
+    },
+    "GENERAL_INTRO_SCREEN": {
+        "TEST_SYSTEM_REQUIREMENTS": "Test System Requirements"
+    },
+    "GOOD_ANSWER_SCREEN": {
+        "YOUR_NEW_SCORE": "Your new score!"
+    },
+    "GPS_RIDLLE_SCREEN": {
+        "TITLE": "GPSRiddle - Riddle Title",
+        "SUBMIT_LOCATION": "Submit Location"
+    },
+    "HINT_COST_SCREEN": {
+        "THIS_HINT_WILL_COST_YOU": "This hint will cost you"
+    },
+    "JOIN_CREATE_TEAM_SCREEN": {
+        "TITLE": "Join or create team",
+        "CREATE_YOUR_TEAM": "Create your team",
+        "TEAMS_AVAILABLE": "Teams Available",
+        "TEAMS_PURCHASED": "Teams Purchased"
+    },
+    "LOGIN_FACEBOOK_SCREEN": {
+        "LOGIN_WITH_FACEBOOK": "Login with Facebook",
+        "CONTINUE_WITH_FACEBOOK": "Continue with Facebook",
+        "FACEBOOK_INFO_NO_RIGHTS_FOR_POSTS": "This does not allow the app to post<br>on my Facebook account."
+    },
+    "LOGIN_GOOGLE_SCREEN": {
+        "LOGIN_WITH_GOOGLE": "Login with Google",
+        "CONTINUE_WITH_GOOGLE": "Continue with Google"
+    },
+    "LOGIN_MAIL_SCREEN": {
+        "FORGOT_PASSWORD": "Forgot Password"
+    },
+    "REGISTRATION_SCREEN": {
+        "REGISTER_WITH_EMAIL": "Register with email"
+    },
+    "REPORT_PROBLEM_SCREEN": {
+        "DESCRIPTION": "Explain the problem.",
+        "ERROR_CRITICAL": "Critical error: we can't continue and demand immediate aid.",
+        "ERROR_CONTINUE_POSSIBLE": "We can still continue and wish to report a possible problem.",
+        "RELATED_TO_RIDDLE": "The problem is related to a specific riddle.",
+        "RIDDLE_C": "Riddle",
+        "TITLE": "Report Problem",
+        "UPLOAD_PICTURE": "Upload Picture"
+    },
+    "RIDDLE_SUBMIT_ANSWER_SCREEN": {       
+        "ANSWER_IS_LOCATION": "Your answer is your location.",
+        "ANSWER_IS_NUMBER": "Your answer needs to be a number.",
+        "ANSWER_IS_PHOTO": "Your answer needs to be an uploaded picture.",
+        "ANSWER_IS_TEXT_AND_PHOTO": "Your answer needs to be both text and an uploaded picture.",
+        "ENTER_ANSWER": "Enter Answer...",
+        "SUBMIT_ANSWER": "Submit Answer",
+        "SUBMIT_LOCATION": "Submit Location",
+        "UPLOAD_PHOTO": "Upload Picture"
+    },
+    "SETTINGS_SCREEN": {
+        "ACCOUNT_SETTINGS": "Account Settings",
+        "CHANGE_TEAM_INFO": "Change your (team) information",
+        "DELETE_ACCOUNT": "Delete Account",
+        "REPORT_PROBLEM": "Report a problem",
+        "SCORE_DETAILS": "Score Details",
+        "TEST_SYSTEM_REQUIREMENTS": "Test System Requirements",
+        "TITLE": "Configuration"
+    },
+    "SETTINGS_TEAM_INFO_SCREEN": {
+        "TITLE": "Team Information",
+        "UPLOAD_TEAM_PHOTO": "Upload team photo"
+    },
+    "START_SCREEN": {
+        "SIGN_IN_WITH": "Sign in with",
+        "REGISTER_ACCOUNT": "Register Account"
+    },
+    "SYSTEM_REQUIREMENTS_CHECK_SCREEN": {
+        "TITLE": "Check system requirements",
+        "CONNECTION_TO_THE_GAME": "Connection to the Go Go City Games game",
+        "FULLY_CHARGE_YOUR_BATTERY": "Fully charge your battery.",
+        "SYSTEM_REQUIREMENTS_INFO": "System requirements info",
+        "TURN_ON_THE_MOBILE_DATA": "Turn on the mobile data.",
+        "TURN_ON_THE_GPS": "Turn on the GPS.",
+        "TURN_ON_THE_WIFI": "Turn on the wifi.",
+        "TURN_UP_THE_VOLUME": "Turn up the volume."
+    },
+    "SYSTEM_REQUIREMENTS_CHECK_MODAL": {
+        "TITLE": "System requirements information",
+        "BATTERY": "BATTERY",
+        "BATTERY_INFO": "The use of mobile data and GPS consume a lot of battery. To prevent the battery from running out, we recommend that you have a fully charged battery.",
+        "MOBILE_DATA": "MOBILE DATA",
+        "MOBILE_DATA_INFO": "It is mandatory to turn on mobile data. Data connection is needed during the game.",
+        "WIFI": "WIFI",
+        "WIFI_INFO": "Your phone uses less battery without wifi. If your phone is trying to connect to wifi networks, this can lead to performance issues.",
+        "VOLUME": "VOLUME",
+        "VOLUME_INFO": "We recommend high enough volume. This is needed to be notified of important events during the game."
+    },
+    "SYSTEM_REQUIREMENTS_NOK_SCREEN": {
+        "TITLE": "Settings not ok",
+        "NOT_MEETING_ALL_REQUIREMENTS": "Your cell phone does not<br>meet all of the system requirements.<br><br>Serious problems may<br>follow.",
+        "SURE_TO_CONTINUE": "Are you sure you want to continue?"
+    },
+    "TEAM_LEADER_OVERVIEW_SCREEN": {
+        "INFO_ABOUT_START_GAME": "Are all team members visible and is your team ready?<br>Then it is time to start the game.",
+        "LEAVE_AND_REMOVE_TEAM": "Leave and remove team",
+        "START_GAME": "Start Game"
+    },
+    "TEAM_MEMBER_OVERVIEW_SCREEN": {
+        "TITLE": "Enter your name and join the team",
+        "INFO_ABOUT_WHEN_GAME_STARTS": "When you have joined a team, wait for the team<br>creator to start the game.",
+        "JOIN_THIS_TEAM": "Join this team",
+        "LEAVE_TEAM": "Leave Team"
+    },
+    "TECHNICAL_MANUAL_SCREEN": {
+        "TITLE": "Technical Manual"
+    },
+    "WRONG_ANSWER_SCREEN": {
+        "WRONG_ANSWER": "Wrong Answer"
+    }
+}
