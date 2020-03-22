@@ -1,0 +1,3 @@
+[submodule "lib/CityGame-SharedLib"]
+	path = lib/CityGame-SharedLib
+	url = https://github.com/robrecht-vanmelckebeke/CityGame-SharedLib
